@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon ./express/send-data-as-response.js"
   },
   "keywords": [],
   "author": "",
